@@ -1,6 +1,6 @@
 === Plugin Name ===
 
-Author: mhmehadi
+Contributors: mhmehadi
 
 Donate link: http://mhmehedi.com/
 
