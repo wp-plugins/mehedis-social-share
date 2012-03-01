@@ -47,7 +47,7 @@ http://mhmehedi.com
 
 or contact with me if you have any question
 
-http://mhmehedi.com/contact
+http://mhmehedi.com/contact-me
 
 
 
